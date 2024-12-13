@@ -1,0 +1,122 @@
+# Styreportalen User Guide
+
+Welcome to Styreportalen! This guide will help you navigate and utilize the application's features effectively.
+
+## Table of Contents
+
+1. [Getting Started](#getting-started)
+2. [Managing Documents](#managing-documents)
+3. [Scheduling Meetings](#scheduling-meetings)
+4. [Managing Committees](#managing-committees)
+5. [Internal Messaging](#internal-messaging)
+6. [User Roles and Permissions](#user-roles-and-permissions)
+7. [Troubleshooting](#troubleshooting)
+
+## Getting Started
+
+### Registration
+
+- Navigate to the **Register** page from the navbar.
+- Fill in your email, password, and select your tenant (board).
+- After registration, verify your email if required.
+
+### Login
+
+- Navigate to the **Login** page.
+- Enter your credentials.
+- If MFA is enabled, enter the MFA token sent to your email.
+
+## Managing Documents
+
+### Uploading a Document
+
+- Go to the **Documents** page.
+- Click on **Upload Document**.
+- Enter the document title and select the file to upload.
+- Click **Upload** to save the document.
+- If a document with the same title exists, a new version will be created.
+
+### Viewing Document Versions
+
+- On the **Documents** page, click on the **Versions** button next to a document.
+- A dialog will display all versions with details.
+- To revert to a previous version, click the **Revert** button and confirm.
+
+### Annotating Documents
+
+- Click on the **Annotate** button next to a document.
+- Use the annotation tools to highlight text and add comments.
+- All annotations are saved automatically.
+
+### Downloading a Document
+
+- On the **Documents** page, click the **Download** button next to a document to download the latest version.
+
+## Scheduling Meetings
+
+### Scheduling a New Meeting
+
+- Go to the **Meetings** page.
+- Click on **Schedule Meeting**.
+- Enter the meeting title, date, and time.
+- Click **Schedule** to create the meeting.
+- Optionally, export the meeting to your calendar using the **Export ICS** button.
+
+### Viewing and Exporting Meetings
+
+- On the **Meetings** page, view all scheduled meetings.
+- Use the **Export ICS** button to add the meeting to your personal calendar.
+
+## Managing Committees
+
+### Creating a Committee
+
+- Navigate to the **Committees** page.
+- Click on **Create Committee**.
+- Enter the committee name and save.
+
+### Assigning Members to a Committee
+
+- On the **Committees** page, select a committee to view details.
+- Click on **Assign Member**.
+- Select a user and assign a role within the committee.
+- Click **Assign** to confirm.
+
+### Internal Messaging
+
+- Within the committee details page, view and send messages.
+- Use the **New Message** field to compose and send messages.
+- Attach files to messages using the **Attach File** option.
+
+## Internal Messaging
+
+### Sending a Message
+
+- Go to the **Committee Details** page.
+- In the **Messages** section, type your message in the **New Message** field.
+- Optionally, attach a file using the **Attach File** button.
+- Click **Send** to post the message to the committee.
+
+### Viewing Messages
+
+- Messages are displayed in chronological order within the committee.
+- Download attached files by clicking the **Download Attachment** button.
+
+## User Roles and Permissions
+
+- **Administrator**: Full access to all features, including user and role management.
+- **Styreleder**: Manage document approvals and oversee meetings.
+- **Styremedlem**: Access to documents, participate in meetings and committees.
+- **Saksfremlegger**: Upload and manage documents.
+
+Ensure you have the appropriate role to access specific features.
+
+## Troubleshooting
+
+- **Cannot Login**: Ensure your email and password are correct. Check your spam folder for MFA tokens.
+- **Password Reset Issues**: Verify that you're entering the correct email. If the reset link isn't received, contact support.
+- **File Upload Errors**: Confirm that the file format and size meet the application's requirements.
+- **Access Denied**: Ensure you have the necessary permissions to access the requested feature. Contact an administrator if needed.
+- **Annotation Issues**: Refresh the page or try re-uploading the document if annotations aren't saving.
+
+For further assistance, contact the support team at support@styreportalen.example.com.
